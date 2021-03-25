@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tech &#8211; WELCOME TO MY WEBSITE</title>
+	<atom:link href="https://ritikaprasai.github.io/portfolio_RP/tag/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ritikaprasai.github.io/portfolio_RP</link>
+	<description>&#039;&#039;Miles to go before I sleep&#34;</description>
+	<lastBuildDate>Thu, 25 Mar 2021 18:32:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>My tech company</title>
+		<link>https://ritikaprasai.github.io/portfolio_RP/2021/03/25/my-tech-company/</link>
+					<comments>https://ritikaprasai.github.io/portfolio_RP/2021/03/25/my-tech-company/#respond</comments>
+		
+		<dc:creator><![CDATA[Ritika]]></dc:creator>
+		<pubDate>Thu, 25 Mar 2021 18:32:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[dream]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">https://ritikaprasai.github.io/portfolio_RP/?p=16</guid>
+
+					<description><![CDATA[h&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.
+]]></description>
+										<content:encoded><![CDATA[<p>h&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ritikaprasai.github.io/portfolio_RP/2021/03/25/my-tech-company/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
